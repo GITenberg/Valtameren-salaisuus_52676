@@ -1,11 +1,14 @@
 _repo: Valtameren-salaisuus_52676
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: The narrative of Arthur Gordon Pym. Finnish
 contributor:
   translator:
     agent_name: Pekander, V.
     gutenberg_agent_id: '46997'
     url: http://www.gutenberg.org/2009/agents/46997
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Poe, Edgar Allan
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/481
     wikipedia: http://en.wikipedia.org/wiki/Edgar_Allan_Poe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52676#Valtameren-salaisuus
 gutenberg_issued: '2016-07-30'
 gutenberg_type: Text
 identifiers:
